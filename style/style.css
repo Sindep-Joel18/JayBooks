@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Young+Serif&display=swap');
 
-/* ========= CUSTOM STYLES FOR JayBooks BOOK CLUB ========= */
-
 /* Defining reusable colors */
 :root {
   /* Theme Colors */
@@ -110,17 +108,5 @@ body {
   
   .testimonial-slide .content {
     z-index: 2;
-  }
-  
-  
-  /* MEDIA QUERIES (OPTIONAL) */
-  @media (max-width: 576px) {
-    .navbar-brand {
-      font-size: 1.1rem;
-    }
-  
-    h1 {
-      font-size: 1.75rem;
-    }
   }
   
